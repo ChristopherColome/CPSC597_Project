@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{1E6D557B-E578-467A-8C63-9909DBB053A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NerdConfessionsApp/IndexPage.xaml.cs">
+    <Files>
+      <File FileName="NerdConfessionsApp Status" />
+      <File FileName="NerdConfessionsApp/App.xaml" Line="6" Column="15" />
+      <File FileName="NerdConfessionsApp/IndexPage.xaml.cs" Line="12" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NerdConfessionsApp.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.ItemProperties.NerdConfessionsApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.67A9C561-A4EF-4131-9A45-15F0A6B1892F" />
+  <MultiItemStartupConfigurations />
+</Properties>
